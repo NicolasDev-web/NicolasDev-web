@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning Python
 - 📫 You can contact me: nicolassantos2132005@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
