@@ -1,9 +1,9 @@
 ## 📊 Nicolas Santos 
 
-**`Analista de Dados`**
+**`Data Engineer`**
 
-Sou um entusiasta de ciência e tecnologia que encontrou na Ciência da Computação (atualmente na UNIFOR) e na Análise de Dados o caminho perfeito para unir curiosidade e lógica.
-Acredito que os dados têm muito a dizer, e meu papel é dar voz a eles. No meu GitHub, compartilho essa jornada de aprendizado entre desafios da faculdade e projetos que exploram o potencial da tecnologia. Sou movido por aprender algo novo todos os dias e por entender a engrenagem por trás de cada inovação.
+I’m a science and technology enthusiast who has found in Computer Science (currently at UNIFOR) and Data Engineer the perfect way to combine curiosity and logic.
+I believe that data has a lot to say, and my role is to give it a voice. On my GitHub, I share this learning journey—from college challenges to projects that explore the potential of technology. I’m driven by learning something new every day and by understanding the mechanics behind every innovation.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-santos-986861304/">
