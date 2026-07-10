@@ -2,8 +2,8 @@
 
 **`Data Engineer`** **`Data Analyst`**
 
-I’m a science and technology enthusiast who has found in Computer Science (currently at UNIFOR) and Data Engineer the perfect way to combine curiosity and logic.
-I believe that data has a lot to say, and my role is to give it a voice. On my GitHub, I share this learning journey from college challenges to projects that explore the potential of technology. I’m driven by learning something new every day and by understanding the mechanics behind every innovation.
+I'm a science and technology enthusiast who has found in Computer Science (currently at UNIFOR) and Data Engineer the perfect way to combine curiosity and logic.
+I believe that data has a lot to say, and my role is to give it a voice. On my GitHub, I share this learning journey from college challenges to projects that explore the potential of technology. I'm[...]
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-santos-986861304/">
@@ -16,7 +16,7 @@ I believe that data has a lot to say, and my role is to give it a voice. On my G
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img 
