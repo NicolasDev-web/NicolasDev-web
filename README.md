@@ -1,6 +1,6 @@
 ## 📊 Nicolas Santos 
 
-**`Data Engineer`** **`Data Analyst`**
+**`Data Engineer`** **`Data Analyst`** **`🏆 Databricks Student Fellow`**
 
 I'm a science and technology enthusiast who has found in Computer Science (currently at UNIFOR) and Data Engineer the perfect way to combine curiosity and logic.
 I believe that data has a lot to say, and my role is to give it a voice. On my GitHub, I share this learning journey from college challenges to projects that explore the potential of technology.
@@ -13,6 +13,19 @@ I believe that data has a lot to say, and my role is to give it a voice. On my G
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### 🎓 Databricks Student Fellow
+
+<div align="center">
+
+![Databricks Student Fellows](https://img.shields.io/badge/Databricks-Student%20Fellow-FF3621?style=for-the-badge&logo=databricks)
+
+**One of 5 Featured Student Fellows** in the Databricks Program  
+*Selected for excellence in data engineering and open-source contributions*
+
+</div>
 
 ---
 
