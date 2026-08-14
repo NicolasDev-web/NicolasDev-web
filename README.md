@@ -20,6 +20,9 @@ Data Engineering Intern @ MRV&CO &nbsp;·&nbsp; Computer Science @ UNIFOR &nbsp;
 <a href="https://www.databricks.com/blog/welcoming-first-cohort-databricks-student-fellows">
   <img src="https://img.shields.io/badge/Databricks%20Student%20Fellow-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Student Fellow" />
 </a>
+<a href="https://www.linkedin.com/posts/nicolas-santos-986861304_googlestudentambassadors-ia-gemini-ugcPost-7492579801720078336-VESk/">
+  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Student Ambassador" />
+</a>
 
 </div>
 
@@ -94,6 +97,8 @@ LangGraph orchestrates the decision flow and Langfuse traces every execution —
 ## Recognition
 
 **[Databricks Student Fellows](https://www.databricks.com/blog/welcoming-first-cohort-databricks-student-fellows)** — one of five fellows highlighted from the program's inaugural cohort.
+
+**[Google Student Ambassador](https://www.linkedin.com/posts/nicolas-santos-986861304_googlestudentambassadors-ia-gemini-ugcPost-7492579801720078336-VESk/)** — selected for the 2026 Brazilian cohort, representing Google on campus and working with the Gemini ecosystem.
 
 <div align="center">
 
