@@ -2,56 +2,30 @@
 
 # Nicolas Santos
 
-**Data Engineer · Applied AI Developer**
+**Data Engineer · Analytics & Applied AI**
 
-Computer Science @ UNIFOR &nbsp;•&nbsp; Fortaleza, Brazil
+Data Engineering Intern @ MRV&CO &nbsp;·&nbsp; Computer Science @ UNIFOR &nbsp;·&nbsp; Fortaleza, Brazil
 
+**Privacy-preserving AI on real public-health data** — systems that stay useful without shipping sensitive records anywhere.
+
+<a href="https://nicolassantos.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/nicolas-santos-986861304/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:nicolasxavier445@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<img src="https://img.shields.io/badge/Databricks%20Student%20Fellow-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Student Fellow" />
+<a href="https://www.databricks.com/blog/welcoming-first-cohort-databricks-student-fellows">
+  <img src="https://img.shields.io/badge/Databricks%20Student%20Fellow-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Student Fellow" />
+</a>
 
 </div>
 
 I build data and AI systems that run end to end — from raw public datasets to the interface someone actually uses. Most of my work sits at the intersection of **data engineering** and **local-first LLM applications**: RAG pipelines over clinical documents, natural-language interfaces to epidemiological databases, and desktop AI tools that keep inference on the user's machine instead of in someone else's cloud.
 
-The recurring theme across my projects is **privacy-preserving AI on real public-health data** — systems that stay useful without shipping sensitive records anywhere.
-
----
-
-<div align="center">
-
-<img src="assets/student-fellows-logo.svg" width="150" alt="Databricks Student Fellows" />
-
-## Databricks Student Fellows
-
-</div>
-
-> [!IMPORTANT]
-> **I was featured as one of the five students spotlighted by the Databricks Student Fellows program.**
-
-The Databricks Student Fellows program recognizes students building with the modern data and AI stack. Out of the whole cohort, five fellows were highlighted by the program — and I'm one of them.
-
-<div align="center">
-
-<img src="assets/databricks-student-fellows-cohort.png" width="720" alt="The five featured Databricks Student Fellows" />
-
-<sub>The five featured Databricks Student Fellows.</sub>
-
-</div>
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **Program** | Databricks Student Fellows |
-| **Recognition** | One of 5 featured fellows |
-| **Focus** | Data engineering · Applied AI · Open source |
-
-</div>
+Alongside that, I work on the analytics side of the same problem — dimensional models, SQL pipelines and BI dashboards that turn the same raw data into something a decision-maker can read.
 
 ---
 
@@ -89,6 +63,16 @@ It also profiles the host's available RAM on first run and recommends a model th
 
 ---
 
+### [Agente TCE — Agentic Search over Public Contracts](https://github.com/NicolasDev-web/Agente_TCE) &nbsp;<sub>· in development</sub>
+
+An agent over contract and clause data from the state audit court (Tribunal de Contas do Estado), exposed as a FastAPI service. Retrieval is hybrid by design: **PostgreSQL with pgvector** holds both the relational rows and the embeddings, so semantic search over clauses and structured SQL queries hit the same store instead of two systems drifting apart.
+
+LangGraph orchestrates the decision flow and Langfuse traces every execution — because an agent you can't inspect is an agent you can't debug.
+
+`Python` `LangGraph` `FastAPI` `PostgreSQL + pgvector` `Langfuse`
+
+---
+
 <details>
 <summary><b>More projects</b></summary>
 
@@ -96,13 +80,28 @@ It also profiles the host's available RAM on first run and recommends a model th
 
 | Project | What it is |
 |:--|:--|
+| [Student AI-Impact Warehouse](https://github.com/NicolasDev-web/dw-impacto-ia-estudantes) | Star-schema design for an analytics warehouse — declared grain, junk dimension, open modelling trade-offs. Design doc; SQL not yet implemented |
 | [Churn Prediction](https://github.com/NicolasDev-web/ChurnPrediction) | End-to-end customer churn modelling in a Jupyter workflow |
 | [Facebook Ego Networks](https://github.com/NicolasDev-web/TrabalhoGrafosFacebook) | Structural analysis of scale-free behaviour in social graphs |
-| [Dijkstra / MST / Graph Coloring](https://github.com/NicolasDev-web?tab=repositories) | Graph algorithm implementations in Python and Java |
+| [Dijkstra](https://github.com/NicolasDev-web/-AlgoritmoDeDijkstra) · [MST](https://github.com/NicolasDev-web/ArvoreGeradoraMinima) · [Graph Coloring](https://github.com/NicolasDev-web/ProblemadeColoracaoemGrafos) | Graph algorithm implementations in Python and Java |
 | [OS Process Scheduler Simulator](https://github.com/NicolasDev-web/Simulador-de-Processos-e-Escalonamento---SO) | Process scheduling simulator built from scratch in Java |
-| [Portfolio](https://github.com/NicolasDev-web/NicolasSantosportfolio) | Personal site, built with TypeScript and React |
+| [Portfolio](https://github.com/NicolasDev-web/Portfolio) | Source for [nicolassantos.vercel.app](https://nicolassantos.vercel.app/), built with TypeScript and React |
 
 </details>
+
+---
+
+## Recognition
+
+**[Databricks Student Fellows](https://www.databricks.com/blog/welcoming-first-cohort-databricks-student-fellows)** — one of five fellows highlighted from the program's inaugural cohort.
+
+<div align="center">
+
+<img src="assets/databricks-student-fellows-cohort.png" width="640" alt="The five featured Databricks Student Fellows" />
+
+<sub>The five featured Databricks Student Fellows.</sub>
+
+</div>
 
 ---
 
@@ -110,12 +109,18 @@ It also profiles the host's available RAM on first run and recommends a model th
 
 **Languages** &nbsp; Python · TypeScript · JavaScript · SQL · Rust · Java · R
 
-**Data & AI** &nbsp; Pandas · NumPy · LangChain · ChromaDB · Ollama · llama.cpp · Jupyter · Plotly · Streamlit
+**Data & Analytics** &nbsp; Power BI · Dimensional modelling · Pandas · NumPy · Jupyter · Plotly
 
-**Platform** &nbsp; Docker · SQLite · Git · Tauri · React
+**AI & LLM** &nbsp; LangChain · LangGraph · ChromaDB · pgvector · Ollama · llama.cpp · Langfuse · Streamlit
 
-<br />
+**Platform** &nbsp; Docker · PostgreSQL · SQLite · Git · Tauri · React
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NicolasDev-web&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=graywhite&bg_color=00000000&icon_color=FF3621" height="140" alt="GitHub stats" />
+
+Building data and AI systems on public-health data — open to conversations about either.
+
+[**Portfolio**](https://nicolassantos.vercel.app/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/nicolas-santos-986861304/) &nbsp;·&nbsp; [**Email**](mailto:nicolasxavier445@gmail.com)
+
 </div>
