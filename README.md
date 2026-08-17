@@ -102,9 +102,16 @@ LangGraph orchestrates the decision flow and Langfuse traces every execution —
 
 <div align="center">
 
-<img src="assets/databricks-student-fellows-cohort.png" width="640" alt="The five featured Databricks Student Fellows" />
-
-<sub>The five featured Databricks Student Fellows.</sub>
+<table>
+<tr>
+<td align="center"><img src="assets/databricks-student-fellows-cohort.png" height="220" alt="The five featured Databricks Student Fellows" /></td>
+<td align="center"><img src="assets/google-student-ambassador.png" height="220" alt="Nicolas Santos as a Google Student Ambassador, 2026 Brazilian cohort" /></td>
+</tr>
+<tr>
+<td align="center"><sub>The five featured Databricks Student Fellows.</sub></td>
+<td align="center"><sub>Google Student Ambassador — 2026 Brazilian cohort.</sub></td>
+</tr>
+</table>
 
 </div>
 
